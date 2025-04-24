@@ -1,0 +1,3 @@
+# This file tells pnpm that the project is not using workspaces
+packages:
+  - '.'
